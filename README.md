@@ -1,2 +1,2 @@
-# YouTube-Analyzer
-Agentic agno
+# AI YouTube Video Analyzer
+Built an AI-powered YouTube video analysis tool using LLMs and agentic AI workflows to automatically extract video insights, generate structured timestamps, identify key topics, and summarize content. Integrated YouTube data retrieval with Groq-powered language models to deliver detailed video breakdowns and learning-focused reports through an interactive Streamlit interface.
